@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-
+//comentraio
 class CashBox extends Model
 {
     protected $table = 'cajas';
