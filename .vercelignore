@@ -1,0 +1,17 @@
+# Ignorar node_modules (puedes instalar las dependencias en Vercel)
+node_modules/
+
+# Ignorar dependencias de desarrollo de Composer (si usas Laravel)
+vendor/
+public/plugins
+
+# Ignorar archivos de logs y pruebas
+storage/
+tests/
+logs/
+*.log
+
+# Ignorar archivos temporales
+*.cache
+*.git
+*.md
